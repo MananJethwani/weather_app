@@ -1,4 +1,14 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## About this project
+
+This is a simple react app which gets your geo-location and tells weather in real time.
+
+### `npm install`
+
+ after downloading this project get all dependencies by running npm start.
+ 
+ ### `npm start`
+ 
+ to run this web application use npm start
 
 ## Available Scripts
 
